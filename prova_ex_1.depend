@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1683530670 source:c:\users\gabri\onedrive\Área de trabalho\gejota\prova_ex_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	<time.h>
+
+1683680250 source:c:\users\alunos\desktop\prova_alexandre\prova_ex_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	<time.h>
+
